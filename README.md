@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Abhijith Babu - Full Stack Developer" width="100%" />
+
 ## Hi there 👋, I'm Abhijith Babu!  
 
 🚀 **Full Stack Developer in Training** | 🎯 **Aspiring MERN Stack Developer**  
@@ -18,7 +20,7 @@
 - 📦 **Version Control**: Git, GitHub  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://www.linkedin.com/in/abhijith-babu-820827329)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijith%20Babu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhijith-babu-820827329)  
 [![GitHub](https://img.shields.io/badge/GitHub-AbhijithBabu-black?style=flat&logo=github)](https://github.com/abhijith-babu-2003)  
 
 ---
