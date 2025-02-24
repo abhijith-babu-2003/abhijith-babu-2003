@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋, I'm Abhijith Babu!  
 
-<!--
-**abhijith-babu-2003/abhijith-babu-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer in Training** | 🎯 **Aspiring MERN Stack Developer**  
 
-Here are some ideas to get you started:
+### 💡 About Me  
+- 🔭 I’m currently working on **E-commerce Projects & Admin Panels**  
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), MongoDB, and Express.js**  
+- 🎓 MERN Stack Developer Training at **Brototype**  
+- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express, and Web Development**  
+- 👯 I’m looking to collaborate on **Open Source & Full Stack Projects**  
+- ⚡ Fun fact: I was a **National-Level Archer** 🏹  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+- 💻 **Languages**: JavaScript, HTML, CSS  
+- 🌐 **Frontend**: React.js, Bootstrap, Tailwind CSS  
+- 🔧 **Backend**: Node.js, Express.js  
+- 🗄 **Database**: MongoDB  
+- 📦 **Version Control**: Git, GitHub  
+
+### 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijithbabu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhijithbabu)  
+[![GitHub](https://img.shields.io/badge/GitHub-AbhijithBabu-black?style=flat&logo=github)](https://github.com/abhijith-babu-2003)  
+
+---
+
+🔥 **"Code. Build. Learn. Repeat!"** 🔥  
