@@ -1,4 +1,4 @@
-<img src="[banner.png](https://pngtree.com/freepng/boy-working-on-laptop-cartoon-vector_15966177.html)" alt="Abhijith Babu - Full Stack Developer" width="100%" />
+<img src="(https://pngtree.com/freepng/boy-working-on-laptop-cartoon-vector_15966177.html)" alt="Abhijith Babu - Full Stack Developer" width="100%" />
 
 ## Hi there 👋, I'm Abhijith Babu!  
 
