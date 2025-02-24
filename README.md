@@ -5,19 +5,20 @@
 🚀 **Full Stack Developer in Training** | 🎯 **Aspiring MERN Stack Developer**  
 
 ### 💡 About Me  
-- 🔭 I’m currently working on **E-commerce Projects & Admin Panels**  
-- 🌱 I’m currently learning **Data Structures & Algorithms (DSA), MongoDB, and Express.js**  
-- 🎓 MERN Stack Developer Training at **Brototype**  
-- 💬 Ask me about **JavaScript, Node.js, MongoDB, Express, and Web Development**  
-- 👯 I’m looking to collaborate on **Open Source & Full Stack Projects**  
-- ⚡ Fun fact: I was a **National-Level Archer** 🏹  
+🔭 Currently working on ArrowMart, an e-commerce platform & admin panel.
+🌱 Learning Data Structures & Algorithms (DSA), MongoDB, and Express.js.
+🎓 MERN Stack Developer Training at Brototype.
+🚀 Passionate about Web Development, JavaScript, and Full-Stack Engineering.
+👯 Looking to collaborate on Open Source & Full-Stack Projects.
+💬 Ask me about JavaScript, Node.js, MongoDB, Express, and Web Development.
+⚡ Fun fact: I was a National-Level Archer 🏹! 
 
 ### 🛠 Tech Stack  
-- 💻 **Languages**: JavaScript, HTML, CSS  
-- 🌐 **Frontend**: React.js, Bootstrap, Tailwind CSS  
-- 🔧 **Backend**: Node.js, Express.js  
-- 🗄 **Database**: MongoDB  
-- 📦 **Version Control**: Git, GitHub  
+💻 Languages: JavaScript, TypeScript, HTML, CSS
+🌐 Frontend: React.js, Bootstrap, Tailwind CSS
+🔧 Backend: Node.js, Express.js
+🗄 Database: MongoDB, SQL
+📦 Version Control: Git, GitHub
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijith%20Babu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhijith-babu-820827329)  
