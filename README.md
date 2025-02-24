@@ -18,7 +18,7 @@
 - 📦 **Version Control**: Git, GitHub  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-abhijithbabu-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhijithbabu)  
+[![LinkedIn](https://www.linkedin.com/in/abhijith-babu-820827329)  
 [![GitHub](https://img.shields.io/badge/GitHub-AbhijithBabu-black?style=flat&logo=github)](https://github.com/abhijith-babu-2003)  
 
 ---
